@@ -26,6 +26,8 @@
 ]
 ```
 
+Файл первого экрана квеста должен иметь название `index.html`
+
 Для разбора JSON-файла используйте одну из следующих библиотек:
 * https://www.nuget.org/packages/System.Json
 * https://www.nuget.org/packages/Newtonsoft.Json
